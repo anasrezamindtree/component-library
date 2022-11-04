@@ -1,23 +1,19 @@
 {
-  "name": "@anasrezamindtree/component-library",
+  "name": "@anasrezamindtree/mdlz-comp-package",
   "version": "1.0.0",
-  "description": "library for components",
+  "description": "library for comp library",
   "main": "CheckBox.js",
-  "publishConfig": {
-    "access": "public"
-    
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anasrezamindtree/component-library.git"
+    "url": "git+https://github.com/anasrezamindtree/mdlz-comp-package.git"
   },
   "author": "Anas",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/anasrezamindtree/component-library/issues"
+    "url": "https://github.com/anasrezamindtree/mdlz-comp-package/issues"
   },
-  "homepage": "https://github.com/anasrezamindtree/component-library#readme"
+  "homepage": "https://github.com/anasrezamindtree/mdlz-comp-package#readme"
 }
