@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/anasrezamindtree/mdlz-comp-package.git"
   },
+  "publishConfig": {
+    "@anasrezamindtree:registry": "https://npm.pkg.github.com"
+  },
   "author": "Anas",
   "license": "ISC",
   "bugs": {
